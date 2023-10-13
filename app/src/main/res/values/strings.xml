@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Semana3InteractionBetwwenActivities</string>
+    <string name="valor_boton">SEND</string>
+    <string name="valor_boton_back">BACK</string>
+</resources>
